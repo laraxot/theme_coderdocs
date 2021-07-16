@@ -1,4 +1,4 @@
-Free Bootstrap 4 Documentation Template for Software Projects
+Free Bootstrap 5 Documentation Template for Software Projects
 
 Theme name:
 =======================================================================
@@ -6,11 +6,11 @@ CoderDocs
 
 Theme version:
 =======================================================================
-v1.2
+Bootstrap 5 v1.0
 
 Release Date:
 =======================================================================
-10 Oct 2020
+2021-07-14
 
 Author: 
 =======================================================================
