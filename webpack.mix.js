@@ -18,11 +18,11 @@ mix.autoload({
     moment: 'moment' // only one
 });
 
-mix.js('resources/js/app.js', 'dist/js')
-    .sass('resources/sass/app.scss', 'dist/css');
+mix.js('Resources/js/app.js', 'dist/js')
+    .sass('Resources/sass/app.scss', 'dist/css');
 
-mix.js('resources/js/form.js', 'dist/js')
-    .sass('resources/sass/form.scss', 'dist/css');
+mix.js('Resources/js/form.js', 'dist/js')
+    .sass('Resources/sass/form.scss', 'dist/css');
 
 mix.setResourceRoot('/themes/coderdocs/dist');
 mix.setPublicPath('dist');
