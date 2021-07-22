@@ -10,7 +10,7 @@
 		<ul class="section-items list-unstyled nav flex-column pb-3">
 			@foreach(Theme::xotModel('article')->where('parent_id',0)->get() as $article)
 			<li class="nav-item section-title">
-				<a class="nav-link " href="{{ Panel::get($article)->url(['act'=>'show'])) }}">
+				<a class="nav-link " href="{{ Panel::get($article)->url(['act'=>'show']) }}">
 						<span class="theme-icon-holder mr-2">
 							<i class="fas fa-map-signs"></i>
 						</span>
@@ -19,7 +19,7 @@
 				</li>
 				@foreach($article->sons as $sub)
 					<li class="nav-item">
-						<a class="nav-link " href="{{ Panel::get($sub)->url(['act'=>'show'])) }}">
+						<a class="nav-link " href="{{ Panel::get($sub)->url(['act'=>'show']) }}">
 							{{ $sub->title }}
 						</a>
 					</li>
