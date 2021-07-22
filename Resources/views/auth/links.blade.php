@@ -7,7 +7,7 @@
     @endphp
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" title="Welcome {{ $profile->handle() }}" href="#"
-            data-effect="mfp-move-from-top" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
+            data-effect="mfp-move-from-top" data-toggle="dropd->url(['act'=>'show'])#" role="button" aria-haspopup="true"
             aria-expanded="false">
             <i class="fa fa-user"></i>@lang('lu::headernav.welcome') {{ $profile->handle() }}!
         </a>
