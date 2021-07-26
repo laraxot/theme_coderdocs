@@ -1,6 +1,9 @@
 @extends('pub_theme::layouts.app',['sidebar'=>1])
 @section('content')
-	@foreach($rows  as $key=>$row)
+	@php
+		//dddx(get_defined_vars());
+	@endphp
+@foreach($rows  as $key=>$row)
 		<article class="docs-article" id="section-1">
 		    <header class="docs-header">
 			    <h1 class="docs-heading">
