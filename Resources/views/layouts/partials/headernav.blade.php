@@ -39,10 +39,6 @@
 					<form method="get">
 						<div class="input-group input-group-sm">
 							<input type="search" name="q" id="form_search" value="{{ Request::input('q') }}" class="form-control" placeholder="Search" aria-label="Search">
-							@php
-								
-								//<input type="hidden" name="type_search" value="article" class="form-control">
-							@endphp
 							<div class="input-group-append">
 								<button type="submit" class="input-group-text">
 									<i class="fa fa-search">
