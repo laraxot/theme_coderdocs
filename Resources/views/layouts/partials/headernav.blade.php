@@ -35,7 +35,8 @@
 						</form>
 						--}}
 
-					<form method="get" action="{{ route('container0.index',['lang'=>$lang,'container0'=>'articles']) }}">
+
+					<form method="get">
 						<div class="input-group input-group-sm">
 							<input type="search" name="q" id="form_search" value="{{ Request::input('q') }}" class="form-control" placeholder="Search" aria-label="Search">
 							<div class="input-group-append">

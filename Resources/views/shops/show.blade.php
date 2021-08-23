@@ -13,8 +13,4 @@
 </div>
 
 @livewire('shop::cart',['row'=>$row])
-{{--
-    si fa un carrello tutti assieme 
-    @livewire('shop::cart2',['row'=>$row])
- --}} 
 @endsection
