@@ -1,5 +1,5 @@
-@extends('errors::minimal')
+@extends('pub_theme::errors.illustrated-layout')
 
 @section('title', __('Page Expired'))
 @section('code', '419')
-@section('message', __('Page Expired'))
+@section('message', $message ?? __('Page Expired'))
