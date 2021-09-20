@@ -11,17 +11,17 @@ try {
     window.$ = window.jQuery = require('jquery');
 
     const Swal = window.Swal = require('sweetalert2');
-	const flatpickr = window.flatpickr = require("flatpickr");
-	const it = require("flatpickr/dist/l10n/it.js").default.it;
-	require('bootstrap');
-	//const magnificPopup = window.magnificPopup = require('magnific-popup');
-	require('jquery.easing');
-	require('typeahead.js');
-	const multiselect = window.multiselect= require("multiselect-two-sides");
+    const flatpickr = window.flatpickr = require("flatpickr");
+    const it = require("flatpickr/dist/l10n/it.js").default.it;
+    require('bootstrap');
+    //const magnificPopup = window.magnificPopup = require('magnific-popup');
+    require('jquery.easing');
+    require('typeahead.js');
+    const multiselect = window.multiselect = require("multiselect-two-sides");
     require("@babel/polyfill");
     require("jquery.scrollto");
     require("ekko-lightbox");
-    window.cookieconsent=require("cookieconsent");
+    window.cookieconsent = require("cookieconsent");
     require("jquery.rateit");
 } catch (e) {
     console.log(e);
