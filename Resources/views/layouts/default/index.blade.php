@@ -10,6 +10,7 @@
 				    <p>{{ $row->subtitle }}</p>
 				</section><!--//docs-intro-->
 			</header>
+			@if(is_iterable($row->sons))
 			@foreach($row->sons as $son)
 			<section class="docs-section" id="item-1-1">
 				<h2 class="section-heading">
@@ -18,6 +19,9 @@
 				<p>{{ $son->subtitle }}</p>
 			</section>
 			@endforeach
+			@else
+				<h3>[{{ get_class($row) }}] method [sons] is not iterable</h3>
+			@endif
 		</article>
 
 	@endforeach
