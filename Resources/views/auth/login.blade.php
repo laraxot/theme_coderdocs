@@ -65,7 +65,7 @@
                             <small class="text-muted text-center">
                                 {{-- Don'thaveanaccountyet? --}}
                                 @lang('lu::auth.no_account_yet')
-                                <a href="{{ route('container0.create', ['lang' => $lang, 'container0' => 'profile']) }}">
+                                <a href="{{ route('register', ['lang' => $lang, 'container0' => 'profile']) }}">
                                     @lang('lu::auth.sign_up')
                                 </a>
                             </small>
