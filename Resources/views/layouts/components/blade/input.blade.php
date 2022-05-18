@@ -11,7 +11,11 @@
 	}
 @endphp
 
+<<<<<<< HEAD
 <div class="col-sm-{{ $field->col_size}}">
+=======
+<div class="col-sm-{{ $field->col_bs_size}}">
+>>>>>>> 6bac816 (up)
 	<div class="form-group{{ $errors->has($name) ? ' has-error' : '' }}">
 		{{ $label }}
 		<div>{{ $input }}</div>
