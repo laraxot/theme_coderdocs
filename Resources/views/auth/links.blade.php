@@ -1,9 +1,13 @@
 @php
 <<<<<<< HEAD
+<<<<<<< HEAD
 //dddx(get_defined_vars());
 =======
     //dddx(get_defined_vars());
 >>>>>>> 6bac816 (up)
+=======
+    //dddx(get_defined_vars());
+>>>>>>> master
 @endphp
 @if (\Auth::check())
     @php
@@ -12,21 +16,30 @@
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" title="Welcome {{ $profile->handle() }}" href="#"
 <<<<<<< HEAD
+<<<<<<< HEAD
             data-effect="mfp-move-from-top" data-toggle="dropd->url('show')#" role="button" aria-haspopup="true"
 =======
             data-effect="mfp-move-from-top" data-toggle="dropd->url(['act'=>'show'])#" role="button" aria-haspopup="true"
 >>>>>>> 6bac816 (up)
+=======
+            data-effect="mfp-move-from-top" data-toggle="dropd->url(['act'=>'show'])#" role="button" aria-haspopup="true"
+>>>>>>> master
             aria-expanded="false">
             <i class="fa fa-user"></i>@lang('lu::headernav.welcome') {{ $profile->handle() }}!
         </a>
         <ul class="dropdown-menu">
             <li>
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <a href="{{ $profile->url() }}" class="dropdown-item" title="profile">Profile</a>
 =======
                 <a href="{{ $profile->url() }}" class="dropdown-item"
                     title="profile">Profile</a>
 >>>>>>> 6bac816 (up)
+=======
+                <a href="{{ $profile->url() }}" class="dropdown-item"
+                    title="profile">Profile</a>
+>>>>>>> master
             </li>
             @if ($profile->permType() >= 4)
                 <li>
@@ -35,11 +48,16 @@
             @endif
             <x-theme::lis.logout class="dropdown-item"> Logout </x-theme::lis.logout>
 <<<<<<< HEAD
+<<<<<<< HEAD
             {{-- <li><a href="{{ url('/logout') }}"  title="logout" onclick="event.preventDefault();
 =======
             {{--  
             <li><a href="{{ url('/logout') }}"  title="logout" onclick="event.preventDefault();
 >>>>>>> 6bac816 (up)
+=======
+            {{--  
+            <li><a href="{{ url('/logout') }}"  title="logout" onclick="event.preventDefault();
+>>>>>>> master
                      document.getElementById('logout-form').submit();">
                     Logout
                 </a></li>
@@ -47,11 +65,16 @@
                 style="display: none;">
                 {{ csrf_field() }}
 <<<<<<< HEAD
+<<<<<<< HEAD
             </form> --}}
 =======
             </form>
             --}}
 >>>>>>> 6bac816 (up)
+=======
+            </form>
+            --}}
+>>>>>>> master
         </ul>
     </li>
 @else

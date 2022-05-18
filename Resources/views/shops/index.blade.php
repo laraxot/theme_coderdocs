@@ -7,7 +7,11 @@
 		<article class="docs-article" id="section-1">
 		    <header class="docs-header">
 			    <h1 class="docs-heading">
+<<<<<<< HEAD
 			    	<a href="{{ Panel::make()->get($row)->url() }}">{{ $row->title }}</a> <span class="docs-time">Last updated: {{ $row->updated_at }}</span>
+=======
+			    	<a href="{{ Panel::get($row)->url() }}">{{ $row->title }}</a> <span class="docs-time">Last updated: {{ $row->updated_at }}</span>
+>>>>>>> master
 			    </h1>
 			    <section class="docs-intro">
 				    <p>{{ $row->subtitle }}</p>

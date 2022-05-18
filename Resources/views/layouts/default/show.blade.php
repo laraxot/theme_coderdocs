@@ -13,7 +13,11 @@
             <h1 class="docs-heading">{{ $row->title }} <span class="docs-time">Last updated:
                     {{ $row->updated_at }}</span></h1>
             <p style="text-color:black;">
+<<<<<<< HEAD
                 {{-- {!! Panel::make()->get($row)->btnItemAction('rate') !!} --}}
+=======
+                {{-- {!! Panel::get($row)->btnItemAction('rate') !!} --}}
+>>>>>>> master
             </p>
 
             <section class="docs-intro">

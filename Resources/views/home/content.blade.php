@@ -25,7 +25,11 @@
 	<div class="row justify-content-center">
 		@foreach($articles as $article)
 		@php
+<<<<<<< HEAD
 			$panel=Panel::make()->get($article);
+=======
+			$panel=Panel::get($article);
+>>>>>>> master
 		@endphp
 		<div class="col-12 col-lg-4 py-3">
 			<div class="card shadow-sm">

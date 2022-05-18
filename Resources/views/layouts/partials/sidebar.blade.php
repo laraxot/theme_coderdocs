@@ -11,7 +11,11 @@
             @foreach (Theme::xotModel('article')->where('parent_id', 0)->get()
     as $article)
                 <li class="nav-item section-title">
+<<<<<<< HEAD
                     <a class="nav-link " href="{{ Panel::make()->get($article)->url('show') }}">
+=======
+                    <a class="nav-link " href="{{ Panel::get($article)->url(['act' => 'show']) }}">
+>>>>>>> master
                         <span class="theme-icon-holder mr-2">
                             <i class="fas fa-map-signs"></i>
                         </span>
@@ -20,7 +24,11 @@
                 </li>
                 @foreach ($article->sons as $sub)
                     <li class="nav-item">
+<<<<<<< HEAD
                         <a class="nav-link " href="{{ Panel::make()->get($sub)->url('show') }}">
+=======
+                        <a class="nav-link " href="{{ Panel::get($sub)->url(['act' => 'show']) }}">
+>>>>>>> master
                             {{ $sub->title }}
                         </a>
                     </li>
