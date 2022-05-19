@@ -4,15 +4,7 @@
 		<article class="docs-article" id="section-1">
 		    <header class="docs-header">
 			    <h1 class="docs-heading">
-<<<<<<< HEAD
-<<<<<<< HEAD
 			    	<a href="{{ Panel::make()->get($row)->url() }}">{{ $row->title }}</a> <span class="docs-time">Last updated: {{ $row->updated_at }}</span>
-=======
-			    	<a href="{{ Panel::get($row)->url() }}">{{ $row->title }}</a> <span class="docs-time">Last updated: {{ $row->updated_at }}</span>
->>>>>>> 6bac816 (up)
-=======
-			    	<a href="{{ Panel::get($row)->url() }}">{{ $row->title }}</a> <span class="docs-time">Last updated: {{ $row->updated_at }}</span>
->>>>>>> master
 			    </h1>
 			    <section class="docs-intro">
 				    <p>{{ $row->subtitle }}</p>
@@ -22,15 +14,7 @@
 			@foreach($row->sons as $son)
 			<section class="docs-section" id="item-1-1">
 				<h2 class="section-heading">
-<<<<<<< HEAD
-<<<<<<< HEAD
 					<a href="{{ Panel::make()->get($son)->url() }}">{{ $son->title }}</a>
-=======
-					<a href="{{ Panel::get($son)->url() }}">{{ $son->title }}</a>
->>>>>>> 6bac816 (up)
-=======
-					<a href="{{ Panel::get($son)->url() }}">{{ $son->title }}</a>
->>>>>>> master
 				</h2>
 				<p>{{ $son->subtitle }}</p>
 			</section>
