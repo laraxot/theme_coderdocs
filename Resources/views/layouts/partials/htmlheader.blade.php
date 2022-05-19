@@ -1,6 +1,5 @@
 <head>
     {!! Theme::metatags() !!}
-<<<<<<< HEAD
     {{-- <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ mix('css/app.css','themes/coderdocs') }}"> --}}
     @php
@@ -11,25 +10,9 @@
         Theme::add('pub_theme::assets/css/theme.css');
         Theme::add('pub_theme::css/prism.css');
         Theme::add('pub_theme::css/xot.css');
-
+        
         Theme::add('theme::dist/css/app.css');
-=======
-    {{--
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ mix('css/app.css','themes/coderdocs') }}">
-    --}}
-    @php
-	//Theme::add('/theme/bc/bootstrap/dist/css/bootstrap.css');
-	//Theme::add('/theme/pub/assets/fontawesome/js/all.min.js');
-    //Theme::add('/theme/pub/css/app.css');
-    Theme::add('pub_theme::dist/css/app.css');
-	Theme::add('/theme/pub/assets/css/theme.css');
-    Theme::add('/theme/pub/css/prism.css');
-    Theme::add('/theme/pub/css/xot.css');
-
-    Theme::add('theme::dist/css/app.css');
->>>>>>> master
-
+        
     @endphp
     {!! Theme::showStyles(false) !!}
     @livewireStyles
