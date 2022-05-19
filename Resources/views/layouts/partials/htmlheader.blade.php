@@ -12,7 +12,11 @@
         Theme::add('pub_theme::css/xot.css');
         
         Theme::add('theme::dist/css/app.css');
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> 197bac46e62783a418d499fb4a3e20204ca9a973
     @endphp
     {!! Theme::showStyles(false) !!}
     @livewireStyles
