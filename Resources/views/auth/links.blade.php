@@ -1,34 +1,22 @@
 @php
-<<<<<<< HEAD
 
 //dddx(get_defined_vars());
 @endphp
-=======
->>>>>>> 197bac46e62783a418d499fb4a3e20204ca9a973
 @if (\Auth::check())
     @php
         //ddd(\Auth::user());
     @endphp
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" title="Welcome {{ $profile->handle() }}" href="#"
-<<<<<<< HEAD
             data-effect="mfp-move-from-top" data-toggle="dropd->url('show')#" role="button" aria-haspopup="true"
-=======
-            data-effect="mfp-move-from-top" data-toggle="dropd->url(['act'=>'show'])#" role="button" aria-haspopup="true"
->>>>>>> 197bac46e62783a418d499fb4a3e20204ca9a973
             aria-expanded="false">
             <i class="fa fa-user"></i>@lang('lu::headernav.welcome') {{ $profile->handle() }}!
         </a>
         <ul class="dropdown-menu">
             <li>
-<<<<<<< HEAD
 
                 <a href="{{ $profile->url() }}" class="dropdown-item" title="profile">Profile</a>
 
-=======
-                <a href="{{ $profile->url() }}" class="dropdown-item"
-                    title="profile">Profile</a>
->>>>>>> 197bac46e62783a418d499fb4a3e20204ca9a973
             </li>
             @if ($profile->permType() >= 4)
                 <li>
@@ -36,13 +24,8 @@
                 </li>
             @endif
             <x-theme::lis.logout class="dropdown-item"> Logout </x-theme::lis.logout>
-<<<<<<< HEAD
 
             {{-- <li><a href="{{ url('/logout') }}"  title="logout" onclick="event.preventDefault();
-=======
-            {{--  
-            <li><a href="{{ url('/logout') }}"  title="logout" onclick="event.preventDefault();
->>>>>>> 197bac46e62783a418d499fb4a3e20204ca9a973
                      document.getElementById('logout-form').submit();">
                     Logout
                 </a></li>
