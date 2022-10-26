@@ -48,7 +48,7 @@
 						<span class="card-title-text">APIs</span>
 					</h5>
 					<div class="card-text">
-						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.						    
+						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 					</div>
 					<a class="card-link-mask" href="docs-page.html#section-3"></a>
 				</div>
@@ -67,7 +67,7 @@
 						<span class="card-title-text">Integrations</span>
 					</h5>
 					<div class="card-text">
-						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.						    
+						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 					</div>
 					<a class="card-link-mask" href="docs-page.html#section-4"></a>
 				</div>
@@ -86,7 +86,7 @@
 						<span class="card-title-text">Utilities</span>
 					</h5>
 					<div class="card-text">
-						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.						    
+						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 					</div>
 					<a class="card-link-mask" href="docs-page.html#section-5"></a>
 				</div>
@@ -105,7 +105,7 @@
 						<span class="card-title-text">Web</span>
 					</h5>
 					<div class="card-text">
-						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.						    
+						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 					</div>
 					<a class="card-link-mask" href="docs-page.html#section-6"></a>
 				</div>
@@ -124,7 +124,7 @@
 						<span class="card-title-text">Mobile</span>
 					</h5>
 					<div class="card-text">
-						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.						    
+						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 					</div>
 					<a class="card-link-mask" href="docs-page.html#section-7"></a>
 				</div>
@@ -143,7 +143,7 @@
 						<span class="card-title-text">Resources</span>
 					</h5>
 					<div class="card-text">
-						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.						    
+						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 					</div>
 					<a class="card-link-mask" href="docs-page.html#section-8"></a>
 				</div>
@@ -162,7 +162,7 @@
 						<span class="card-title-text">FAQs</span>
 					</h5>
 					<div class="card-text">
-						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.						    
+						Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 					</div>
 					<a class="card-link-mask" href="docs-page.html#section-9"></a>
 				</div>

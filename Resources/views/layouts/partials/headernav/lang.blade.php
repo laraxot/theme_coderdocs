@@ -16,7 +16,7 @@
 			if(isset($row) && is_object($row)){
 			//	$url=$row->urlLang(['lang'=>$k]);
 			}
-			//ddd($row);//article 
+			//ddd($row);//article
 		@endphp
 		<a class="dropdown-item" href="{{ $url }}">
 			<span class="flag-icon flag-icon-{{ ($k=='en')?'us':$k }}"> </span>

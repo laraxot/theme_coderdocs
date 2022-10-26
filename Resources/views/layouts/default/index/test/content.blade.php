@@ -4,7 +4,7 @@
 					    <section class="docs-intro">
 						    <p>Section intro goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque finibus condimentum nisl id vulputate. Praesent aliquet varius eros interdum suscipit. Donec eu purus sed nibh convallis bibendum quis vitae turpis. Duis vestibulum diam lorem, vitae dapibus nibh facilisis a. Fusce in malesuada odio.</p>
 						</section><!--//docs-intro-->
-						
+
 						<h5>Github Code Example:</h5>
 						<p>You can <a class="theme-link" href="https://gist.github.com/"  target="_blank">embed your code snippets using Github gists</a></p>
 						<div class="docs-code-block">
@@ -12,15 +12,15 @@
 							<script src="https://gist.github.com/xriley/fce6cf71edfd2dadc7919eb9c98f3f17.js"></script>
 							<!-- ** Embed github code ends ** -->
 						</div><!--//docs-code-block-->
-						
+
 					     <h5>Highlight.js Example:</h5>
 						<p>You can <a class="theme-link" href="https://github.com/highlightjs/highlight.js" target="_blank">embed your code snippets using highlight.js</a> It supports <a class="theme-link" href="https://highlightjs.org/static/demo/" target="_blank">185 languages and 89 styles</a>.</p>
 						<p>This template uses <a class="theme-link" href="https://highlightjs.org/static/demo/" target="_blank">Atom One Dark</a> style for the code blocks: <br><code>&#x3C;link rel=&#x22;stylesheet&#x22; href=&#x22;//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.2/styles/atom-one-dark.min.css&#x22;&#x3E;</code></p>
 						<div class="docs-code-block">
-							
+
 						</div><!--//docs-code-block-->
-						
-						
+
+
 				    </header>
 				    <section class="docs-section" id="item-1-1">
 						<h2 class="section-heading">Section Item 1.1</h2>
@@ -41,7 +41,7 @@
 						</ol>
                         <h5>Callout Examples:</h5>
                         <div class="callout-block callout-block-info">
-                            
+
                             <div class="content">
                                 <h4 class="callout-title">
 	                                <span class="callout-icon-holder mr-1">
@@ -52,7 +52,7 @@
                                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium <code>&lt;code&gt;</code> , Nemo enim ipsam voluptatem quia voluptas <a href="#">link example</a> sit aspernatur aut odit aut fugit.</p>
                             </div><!--//content-->
                         </div><!--//callout-block-->
-                        
+
                         <div class="callout-block callout-block-warning">
                             <div class="content">
                                 <h4 class="callout-title">
@@ -64,7 +64,7 @@
                                 <p>Nunc hendrerit odio quis dignissim efficitur. Proin ut finibus libero. Morbi posuere fringilla felis eget sagittis. Fusce sem orci, cursus in tortor <a href="#">link example</a> tellus vel diam viverra elementum.</p>
                             </div><!--//content-->
                         </div><!--//callout-block-->
-                        
+
                         <div class="callout-block callout-block-success">
                             <div class="content">
                                 <h4 class="callout-title">
@@ -76,7 +76,7 @@
                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. <a href="#">Link example</a> aenean commodo ligula eget dolor.</p>
                             </div><!--//content-->
                         </div><!--//callout-block-->
-                        
+
                         <div class="callout-block callout-block-danger mr-1">
                             <div class="content">
                                 <h4 class="callout-title">
@@ -88,7 +88,7 @@
                                 <p>Morbi eget interdum sapien. Donec sed turpis sed nulla lacinia accumsan vitae ut tellus. Aenean vestibulum <a href="#">Link example</a> maximus ipsum vel dignissim. Morbi ornare elit sit amet massa feugiat, viverra dictum ipsum pellentesque. </p>
                             </div><!--//content-->
                         </div><!--//callout-block-->
-                        
+
                         <h5 class="mt-5">Alert Examples:</h5>
                         <div class="alert alert-primary" role="alert">
 						  This is a primary alert—check it out!
@@ -114,10 +114,10 @@
 						<div class="alert alert-dark" role="alert">
 						  This is a dark alert—check it out!
 						</div>
-                        
-                       
+
+
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-1-2">
 						<h2 class="section-heading">Section Item 1.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
@@ -126,7 +126,7 @@
 						    <a href="assets/images/features/appify-theme-projects-overview-lg.jpg" data-title="Image Lightbox Example" data-toggle="lightbox"><img class="figure-img img-fluid shadow rounded" src="assets/images/features/appify-add-members.gif" alt="" style="width: 600px;"></a>
 						    <figcaption class="figure-caption mt-3"><i class="fas fa-info-circle mr-2"></i>Credit: the above screencast is taken from <a  class="theme-link" href="https://themes.3rdwavemedia.com/bootstrap-templates/product/appify-bootstrap-4-admin-template-for-app-developers/" target="_blank"><i class="fas fa-external-link-alt"></i>Appify theme</a>.</figcaption>
 						</figure>
-						
+
 						<h5>Custom Table:</h5>
 						<div class="table-responsive my-4">
 							<table class="table table-bordered">
@@ -139,12 +139,12 @@
 									      <th class="theme-bg-light"><a class="theme-link" href="#">Option 2</a></th>
 									      <td>Option 2 desc lorem ipsum dolor sit amet, consectetur adipiscing elit. </td>
 									</tr>
-									
+
 									<tr>
 									    <th class="theme-bg-light"><a class="theme-link" href="#">Option 3</a></th>
 									    <td>Option 3 desc lorem ipsum dolor sit amet, consectetur adipiscing elit. </td>
 									</tr>
-									
+
 									<tr>
 									    <th class="theme-bg-light"><a class="theme-link" href="#">Option 4</a></th>
 									    <td>Option 4 desc lorem ipsum dolor sit amet, consectetur adipiscing elit. </td>
@@ -218,10 +218,10 @@
 								</tbody>
 							</table>
 						</div><!--//table-responsive-->
-						
-						
+
+
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-1-3">
 						<h2 class="section-heading">Section Item 1.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
@@ -261,7 +261,7 @@
                                 </ul>
                             </div>
                         </div><!--//row-->
-                        
+
                         <h5>Progress Examples:</h5>
                         <div class="my-4">
 	                        <div class="progress my-4">
@@ -278,12 +278,12 @@
 							</div>
                         </div>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-1-4">
 						<h2 class="section-heading">Section Item 1.4</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
-						
-						
+
+
 						<h5>Pagination Example:</h5>
 						<nav aria-label="Page navigation example">
 						    <ul class="pagination pl-0">
@@ -294,9 +294,9 @@
 							    <li class="page-item"><a class="page-link" href="#">Next</a></li>
 						    </ul>
 						</nav>
-						
+
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
-						
+
 					</section><!--//section-->
 					<section class="docs-section" id="item-1-5">
 						<h2 class="section-heading">Section Item 1.5</h2>
@@ -306,9 +306,9 @@
 						<h2 class="section-heading">Section Item 1.6</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 			    </article>
-			    
+
 			    <article class="docs-article" id="section-2">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">Installation</h1>
@@ -320,19 +320,19 @@
 						<h2 class="section-heading">Section Item 2.1</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-2-2">
 						<h2 class="section-heading">Section Item 2.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-2-3">
 						<h2 class="section-heading">Section Item 2.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
-			    
-			    
+
+
 			    <article class="docs-article" id="section-3">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">APIs</h1>
@@ -344,18 +344,18 @@
 						<h2 class="section-heading">Section Item 3.1</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-3-2">
 						<h2 class="section-heading">Section Item 3.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-3-3">
 						<h2 class="section-heading">Section Item 3.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
-			    
+
 			    <article class="docs-article" id="section-4">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">Intergrations</h1>
@@ -367,18 +367,18 @@
 						<h2 class="section-heading">Section Item 4.1</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-4-2">
 						<h2 class="section-heading">Section Item 4.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-4-3">
 						<h2 class="section-heading">Section Item 4.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
-			    
+
 			    <article class="docs-article" id="section-5">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">Utilities</h1>
@@ -390,19 +390,19 @@
 						<h2 class="section-heading">Section Item 5.1</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-5-2">
 						<h2 class="section-heading">Section Item 5.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-5-3">
 							<h2 class="section-heading">Section Item 5.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
-			    
-			    
+
+
 		        <article class="docs-article" id="section-6">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">Web</h1>
@@ -414,19 +414,19 @@
 						<h2 class="section-heading">Section Item 6.1</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-6-2">
 						<h2 class="section-heading">Section Item 6.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-6-3">
 							<h2 class="section-heading">Section Item 6.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
-			    
-			    
+
+
 			    <article class="docs-article" id="section-7">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">Mobile</h1>
@@ -438,19 +438,19 @@
 						<h2 class="section-heading">Section Item 7.1</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-7-2">
 						<h2 class="section-heading">Section Item 7.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-7-3">
 							<h2 class="section-heading">Section Item 7.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
-			    
-			    
+
+
 			    <article class="docs-article" id="section-8">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">Resources</h1>
@@ -462,19 +462,19 @@
 						<h2 class="section-heading">Section Item 8.1</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-8-2">
 						<h2 class="section-heading">Section Item 8.2</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-8-3">
 							<h2 class="section-heading">Section Item 8.3</h2>
 						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
-			    
-			    
+
+
 			    <article class="docs-article" id="section-9">
 				    <header class="docs-header">
 					    <h1 class="docs-heading">FAQs</h1>
@@ -493,7 +493,7 @@
 						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>Where arcu sed urna gravida?</h5>
 						<p>Aenean et sodales nisi, vel efficitur sapien. Quisque molestie diam libero, et elementum diam mollis ac. In dignissim aliquam est eget ullamcorper. Sed id sodales tortor, eu finibus leo. Vivamus dapibus sollicitudin justo vel fermentum. Curabitur nec arcu sed urna gravida lobortis. Donec lectus est, imperdiet eu viverra viverra, ultricies nec urna. </p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-9-2">
 						<h2 class="section-heading">Section Item 9.2 <small>(FAQ Category Two)</small></h2>
 						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>What's sit amet quam eget lacinia?</h5>
@@ -505,7 +505,7 @@
 						<h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>Where arcu sed urna gravida?</h5>
 						<p>Aenean et sodales nisi, vel efficitur sapien. Quisque molestie diam libero, et elementum diam mollis ac. In dignissim aliquam est eget ullamcorper. Sed id sodales tortor, eu finibus leo. Vivamus dapibus sollicitudin justo vel fermentum. Curabitur nec arcu sed urna gravida lobortis. Donec lectus est, imperdiet eu viverra viverra, ultricies nec urna. </p>
 					</section><!--//section-->
-					
+
 					<section class="docs-section" id="item-9-3">
 							<h2 class="section-heading">Section Item 9.3 <small>(FAQ Category Three)</small></h2>
 						    <h5 class="pt-3"><i class="fas fa-question-circle mr-1"></i>How to dapibus sollicitudin justo vel fermentum?</h5>

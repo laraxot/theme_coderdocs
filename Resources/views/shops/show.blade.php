@@ -8,7 +8,7 @@
     {{ $row->title }}
 </div>
 <div>
-    
+
     {{ $row->subtitle }}<b>
 </div>
 

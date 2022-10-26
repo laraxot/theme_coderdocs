@@ -5,9 +5,9 @@
     		{{--
     			idea
     			Theme::breadCrumItem(['row'=>$v])
-    			da poter restituire anche oggetti schemaOrg 
+    			da poter restituire anche oggetti schemaOrg
     		--}}
-			@if(is_object($v))	    		
+			@if(is_object($v))
     		<a href="{{ $v->url }}">{{ $v->title }}</a>
     		@else
     		<a href="#">{{ $v }}</a>

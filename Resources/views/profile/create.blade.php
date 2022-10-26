@@ -1,5 +1,5 @@
 {{--
-<!DOCTYPE html>  
+<!DOCTYPE html>
 <html lang="en">
 	@include('pub_theme::layouts.partials.htmlheader')
 	<body>
@@ -25,7 +25,7 @@
 						@include('theme::includes.flash')
 						{!! Form::bsOpen($row, 'store') !!}
 						{{-- <formclass="form-validate"> --}}
-						{{-- 
+						{{--
 						<div class="form-group">
 							<label for="loginUsername" class="form-label"> Email Address</label>
 							<input name="loginUsername" id="loginUsername" type="email" placeholder="name@address.com" autocomplete="off" required data-msg="Please enter your email" class="form-control">
@@ -33,7 +33,7 @@
 						--}}
 						{{ Form::bsText('user[handle]') }}
 						{{ Form::bsEmail('user[email]') }}
-						{{--  
+						{{--
 						<div class="form-group">
 							<label for="loginPassword" class="form-label"> Password</label>
 							<input name="loginPassword" id="loginPassword" placeholder="Password" type="password" required data-msg="Please enter your password" class="form-control">
@@ -52,7 +52,7 @@
 						<button class="btn btn btn-outline-primary btn-block btn-social mb-3">
 						<i class="fa-2x fa-facebook-f fab btn-social-icon"></i>
 						@lang('food::auth.login.connect_with_facebook')
-						{{-- 
+						{{--
 						Connect
 						<span class="d-none d-sm-inline">with Facebook</span>
 						--}}
@@ -60,7 +60,7 @@
 						<button class="btn btn btn-outline-muted btn-block btn-social mb-3">
 						<i class="fa-2x fa-google fab btn-social-icon"> </i>
 						@lang('food::auth.connect_with_google')
-						{{-- 
+						{{--
 						Connect <span class="d-none d-sm-inline">with Google</span>
 						--}}
 						</button>
@@ -72,9 +72,9 @@
 						</p>
 						<p class="text-sm text-muted">
 							@lang('food::auth.create.agree_to')
-							{{-- 
-							By signing up you agree to Directory's 
-							<a href="#">Terms and Conditions</a> and 
+							{{--
+							By signing up you agree to Directory's
+							<a href="#">Terms and Conditions</a> and
 							<a href="#">Privacy Policy</a>.
 							--}}
 						</p>

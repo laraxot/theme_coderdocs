@@ -11,11 +11,11 @@
 	@includeWhen($in_home,$view.'.inner_page')
 	<div class="page-wrapper">
 
-		
+
 	    @includeWhen(!$in_home,'pub_theme::layouts.partials.sidebar')
-	    
-		
-		
+
+
+
 		<div class="{{$class}}">
 	    	<div class="container" id="app">
                 @yield('content')

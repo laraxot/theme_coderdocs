@@ -10,9 +10,9 @@
         Theme::add('pub_theme::assets/css/theme.css');
         Theme::add('pub_theme::css/prism.css');
         Theme::add('pub_theme::css/xot.css');
-        
+
         Theme::add('theme::dist/css/app.css');
-        
+
     @endphp
     {!! Theme::showStyles(false) !!}
     @livewireStyles

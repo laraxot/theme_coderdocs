@@ -10,4 +10,4 @@
 		@endforeach
 	</ul>
 	@endforeach
-</div>	 
+</div>

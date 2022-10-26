@@ -1,5 +1,5 @@
 {{-- \Request::getRequestUri() --}}
-{{-- request()->fullUrl() 
+{{-- request()->fullUrl()
 	action="{{ request()->fullUrl() }}"
 	--}}
 @php
