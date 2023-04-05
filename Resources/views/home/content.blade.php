@@ -1,8 +1,8 @@
 @php
 $articles = Theme::xotModelEager('article')
-    ->where('parent_id', 0)
+    ?->where('parent_id', 0)
     ->orderBy('pos')
-    ->get();
+    ->get() ?? collect([]);
 //ddd($articles);
 @endphp
 <div class="docs-overview py-5">
