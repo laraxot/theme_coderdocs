@@ -11,7 +11,7 @@
         Theme::add('pub_theme::css/prism.css');
         Theme::add('pub_theme::css/xot.css');
 
-        Theme::add('theme::dist/css/app.css');
+        Theme::add('pub_theme::dist/css/app.css');
 
     @endphp
     {!! Theme::showStyles(false) !!}
