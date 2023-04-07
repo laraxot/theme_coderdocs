@@ -23,7 +23,7 @@
                     <a href="{{ url('/admin') }}" class="dropdown-item" title="admin">Admin</a>
                 </li>
             @endif
-            <x-theme::lis.logout class="dropdown-item"> Logout </x-theme::lis.logout>
+            <x-logout>Logout</x-logout>
 
             {{-- <li><a href="{{ url('/logout') }}"  title="logout" onclick="event.preventDefault();
                      document.getElementById('logout-form').submit();">
