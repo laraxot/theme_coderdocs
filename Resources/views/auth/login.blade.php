@@ -13,7 +13,7 @@
                     <form class="form-validate" role="form" method="POST"
                         action="{{ route('login', ['referrer' => $referrer]) }}">
                         @csrf
-                        @include('ui::includes.flash')
+                        <x-flash-message />
                         {{ Form::bsEmail('email', null, ['class' => 'form-control form-control-user1']) }}
                         {{-- {{ Form::bsPassword('password', null, ['class' => 'form-control form-control-user1']) }} --}}
                         <div class="form-group mb-4">

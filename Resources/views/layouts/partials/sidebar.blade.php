@@ -8,7 +8,7 @@
 
     <nav id="docs-nav" class="docs-nav navbar">
         <ul class="section-items list-unstyled nav flex-column pb-3">
-            @foreach (Theme::xotModel('article')->where('parent_id', 0)->get()
+            @foreach (xotModel('article')->where('parent_id', 0)->get()
     as $article)
                 <li class="nav-item section-title">
                     <a class="nav-link " href="{{ Panel::make()->get($article)->url('show') }}">
